@@ -1,0 +1,13 @@
+5.01
+Działa mozna odczytywac tablice wystaczy w konsoli wpsac run.sh
+
+DO ZROBIENIA: uruchamianie przy włączeniu rpi
+
+Są problemy z rozpoznawaniem: myli '2' z 'Z' i 'S' z '5'
+
+
+!!!!!!!!!!!
+Rozważyc nowy moduł odczytywania tekstu
+!!!!!!!!!!!
+
+Detekcja na 256x256 odczytywanie na 1024x1024?
